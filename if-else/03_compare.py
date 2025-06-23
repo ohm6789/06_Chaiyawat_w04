@@ -9,7 +9,7 @@ num_2 = 20
 # print(f"{name_1 > name_2}")
 
 fruits = ["apple","banana","papaya","orange"]
-find_fruit = "ban"
+find_fruit = "banana"
 
 if find_fruit in fruits:
     print(f"มี {find_fruit} อยู่ในรายการ")
